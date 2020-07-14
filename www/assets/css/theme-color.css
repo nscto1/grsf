@@ -1,0 +1,66 @@
+/*color theme*/
+.theme-l5 {color:#000 !important; background-color:#fefcfc !important}
+.theme-l4 {color:#000 !important; background-color:#fbf6f7 !important}
+.theme-l3 {color:#000 !important; background-color:#f8eeee !important}
+.theme-l2 {color:#000 !important; background-color:#f4e5e6 !important}
+.theme-l1 {color:#000 !important; background-color:#f0dddd !important}
+.theme-d1 {color:#fff !important; background-color:#dfb5b6 !important}
+.theme-d2 {color:#fff !important; background-color:#d29597 !important}
+.theme-d3 {color:#fff !important; background-color:#c47679 !important}
+.theme-d4 {color:#fff !important; background-color:#b7565a !important}
+.theme-d5 {color:#fff !important; background-color:#9d4346 !important}
+
+.theme-light {color:#000 !important; background-color:#fefcfc !important}
+.theme-dark {color:#fff !important; background-color:#9d4346 !important}
+.theme-action {color:#fff !important; background-color:#9d4346 !important}
+
+.theme {color:#fff !important; background-color:#edd5d6 !important}
+.text-theme {color:#edd5d6 !important}
+.text-theme-l1 {color:#f0dddd !important}
+.text-theme-l2 {color:#f4e5e6 !important}
+.text-theme-l3 {color:#f8eeee !important}
+.text-theme-l4 {color:#fbf6f7 !important}
+.text-theme-l5 {color:#fefcfc !important}
+.text-theme-d1 {color:#dfb5b6 !important}
+.text-theme-d2 {color:#d29597 !important}
+.text-theme-d3 {color:#c47679 !important}
+.text-theme-d4 {color:#b7565a !important}
+.text-theme-d5 {color:#9d4346 !important}
+.border-theme {border-color:#edd5d6 !important}
+
+.hover-theme:hover {color:#fff !important; background-color:#edd5d6 !important}
+.hover-theme-l1:hover {color:#000 !important; background-color:#f0dddd !important}
+.hover-theme-l2:hover {color:#000 !important; background-color:#f4e5e6 !important}
+.hover-theme-l3:hover {color:#000 !important; background-color:#f8eeee !important}
+.hover-theme-l4:hover {color:#000 !important; background-color:#fbf6f7 !important}
+.hover-theme-l5:hover {color:#000 !important; background-color:#fefcfc !important}
+.hover-theme-d1:hover {color:#fff !important; background-color:#dfb5b6 !important}
+.hover-theme-d2:hover {color:#fff !important; background-color:#d29597 !important}
+.hover-theme-d3:hover {color:#fff !important; background-color:#c47679 !important}
+.hover-theme-d4:hover {color:#fff !important; background-color:#b7565a !important}
+.hover-theme-d5:hover {color:#fff !important; background-color:#9d4346 !important}
+.hover-text-theme:hover {color:#edd5d6 !important}
+.hover-border-theme:hover {border-color:#edd5d6 !important}
+
+.animate-hover-theme, .animate-hover-theme-d1{-webkit-transition: background-color 0.2s, color 0.2s; -moz-transition: background-color 0.2s, color 0.2s; -o-transition: background-color 0.2s, color 0.2s; transition: background-color 0.2s, color 0.2s }
+.animate-hover-theme:hover { color:#fff!important;background-color:#edd5d6!important }
+.animate-hover-theme-l1:hover { color:#000!important;background-color:#f0dddd!important }
+.animate-hover-theme-l2:hover { color:#000!important;background-color:#f4e5e6!important }
+.animate-hover-theme-l3:hover { color:#000!important;background-color:#f8eeee!important }
+.animate-hover-theme-l4:hover { color:#000!important;background-color:#fbf6f7!important }
+.animate-hover-theme-l5:hover { color:#000!important;background-color:#fefcfc!important }
+.animate-hover-theme-d1:hover { color:#fff!important;background-color:#dfb5b6!important }
+.animate-hover-theme-d2:hover { color:#fff!important;background-color:#d29597!important }
+.animate-hover-theme-d3:hover { color:#fff!important;background-color:#c47679!important }
+.animate-hover-theme-d4:hover { color:#fff!important;background-color:#b7565a!important }
+.animate-hover-theme-d5:hover { color:#fff!important;background-color:#9d4346!important }
+
+.input, .select{padding-left:0;padding-right:0}
+select, input{transition: 0.2s ease all}
+select:focus, input:focus{outline: none;border-bottom: 2px solid #edd5d6}
+
+.animate-slow-progress, .animate-slow-progress:hover {-webkit-transition: background-color 1s, color 1s; -moz-transition: background-color 1s, color 1s; -o-transition: background-color 1s, color 1s; transition: background-color 1s, color 1s;color:#edd5d6!important;background-color:#fff!important}
+.animate-slow-success, .animate-slow-success:hover {-webkit-transition: background-color 1s, color 1s; -moz-transition: background-color 1s, color 1s; -o-transition: background-color 1s, color 1s; transition: background-color 1s, color 1s;color:#fff!important;background-color:#4CAF50!important}
+
+.animate-hover-white {-webkit-transition: background-color 0.2s, color 0.2s; -moz-transition: background-color 0.2s, color 0.2s; -o-transition: background-color 0.2s, color 0.2s; transition: background-color 0.2s, color 0.2s }
+.animate-hover-white:hover { color:#edd5d6!important;background-color:#fff!important }
